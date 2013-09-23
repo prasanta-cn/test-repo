@@ -7,5 +7,6 @@
 
 <body>
 <?php echo 'TEST PHP SCRIPT!'; ?>
+<?php echo '2nd LINE.'; ?>
 </body>
 </html>
