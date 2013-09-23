@@ -8,5 +8,8 @@
 <body>
 <?php echo 'TEST PHP SCRIPT!'; ?>
 <?php echo '2nd LINE.'; ?>
+
+<?php echo 'Another LINE!!'; ?>
+
 </body>
 </html>
