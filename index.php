@@ -15,5 +15,9 @@
 
 <?php echo '5th LINE!'; ?>
 
+<?php echo 'Sixth LINE!'; ?>
+
+<?php echo 'HELLO WORLD!!!'; ?>
+
 </body>
 </html>
